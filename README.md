@@ -1,0 +1,1 @@
+Özel barkodları tarayabilen, uygun fiyatlı ürün karşılaştırması yapabilen, en uygun ürünün konumunu haritalara bağlanıp gösterebilen android mobil uygulama. Bilgisayar Programcılığı bölüm bitirme projesi.
